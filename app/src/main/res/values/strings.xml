@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="LblQtyKilograms">Digite 2 numeros:</string>
+    <string name="LblOpcion">Seleccione la Operacion a calcular:</string>
+
+    <string name="Txtnum1hint">numero#1</string>
+    <string name="Txtnum2hint">numero#2</string>
+
+
+    <string name="BtnSuma">+</string>
+    <string name="BtnResta">-</string>
+    <string name="BtnDivision">/</string>
+    <string name="BtnMultiplicacion">*</string>
+
+    <string name="BtnConvert">Calcular</string>
+</resources>
