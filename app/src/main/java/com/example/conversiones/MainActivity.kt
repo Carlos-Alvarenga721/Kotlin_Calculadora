@@ -12,7 +12,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import java.util.Locale
 
-private const val s = "peracion no valida"
+
 
 class MainActivity : AppCompatActivity() {
     private var botonSeleccionado: Button? = null
